@@ -1,19 +1,19 @@
 {
   "name": "vuepress",
   "version": "1.0.0",
-  "repository": "https://github.com/capriosa/vuepress-deploy",
-  "description": "Starter template for a VuePress site",
-  "author": "Meinolf Droste <mdwp.post@gmail.com>",
+  "repository": "https://github.com/jainparakh/parakh-vuepress",
+  "description": "Parakh Jain's website",
+  "author": "Parakh Jain",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "devDependencies": {
-    "vuepress": "^0.6.0"
+    "vuepress": "^1.7.1"
   },
   "dependencies": {
     "eslint": "^4.19.1",
-    "npm": "^6.14.6"
+    "npm": "^7.3.0"
   }
 }

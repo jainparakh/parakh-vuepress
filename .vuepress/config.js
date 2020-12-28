@@ -21,12 +21,13 @@ module.exports = {
     ],
     serviceWorker: true,
     themeConfig: {
+        blogDir: 'blog',
         docsDir: 'docs',
         repo: 'capriosa/vuepress-deploy',
 
         nav: [{
                 text: 'Start',
-                link: '/docs/',
+                link: '/blog/',
             },
             {
                 text: 'Admin',

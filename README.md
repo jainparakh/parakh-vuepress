@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: front
-actionText: Hello VuePress →
+actionText: Hello Guest →
 actionLink: /docs/
 features:
 - title: One-click Deploy
